@@ -1,0 +1,4 @@
+openai>=1.0.0
+
+# 推荐 Python 版本
+python>=3.14
